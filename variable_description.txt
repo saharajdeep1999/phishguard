@@ -1,0 +1,7 @@
+Variable Purpose
+keywords  -  List of phishing trigger terms loaded from file
+score  -  Total phishing risk score per email
+flags  -  List of reasons an email was flagged
+results  -  Final structured data on all emails scanned
+status  -  Marked as "Phishing" or "Safe" based on score threshold
+output_file  -  Output CSV to store detection results
